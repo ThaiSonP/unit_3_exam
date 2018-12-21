@@ -40,10 +40,10 @@
   - Orca Whale, Mammal: `true`.
   - Moon Jelly, Mammal: `false`.
 - **Animals**
-  - Two Dolphins, Nicknames: "Flip" and "Skip".
-  - One Moray Eel, Nickname: "Jenkins".
-  - One Tiger Shark, Nickname: "Sally".
-  - Three Moon Jellies, Nicknames: "Flapjack", "Gibbous", and "Nox"
+  - [1] Two Dolphins, Nicknames: "Flip" and "Skip".
+  - [2] One Moray Eel, Nickname: "Jenkins".
+  - [3] One Tiger Shark, Nickname: "Sally".
+  - [5] Three Moon Jellies, Nicknames: "Flapjack", "Gibbous", and "Nox"
 - **Habitats**
   - Category: Shallows.
   - Category: Coral Reef.
